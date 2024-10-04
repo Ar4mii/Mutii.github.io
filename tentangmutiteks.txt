@@ -1,0 +1,29 @@
+<html>
+<head>
+<title>Tentang Muti</title>
+</head>
+<body style="background-image: url(wallpaperbunga.jpeg);">
+
+<h1><font face="Century Gothic" color="#83213F">Halo semua˚ෆ</h1>
+<p><font face="Century Gothic" color="#83213F"><b>Selamat datang di website akuu!!˚✧ </b></p></font>
+<p><marquee> <font size="4" color="#83213F"> 
+ﮩ٨ـﮩﮩ٨ـ♡ﮩ٨ـﮩﮩ٨ـﮩ٨ـﮩﮩ٨ـ♡ﮩ٨ـﮩﮩ٨ـﮩ٨ـﮩﮩ٨ـ♡ﮩ٨ـﮩﮩ٨ـﮩ٨ـﮩﮩ٨ـ♡ﮩ٨ـﮩﮩ٨ـ </marquee></p></font>
+
+<img src="fotomuti.jpeg" width="180" height="250" style="float: left; margin: 0px 9px 3px 0px;" />
+
+<font face="Century Gothic" color="#83213F">
+<b><h2>Kenalin aku Mutiara ⸜(｡˃ ᵕ ˂ )⸝♡ </b></h2>
+<ul type=circle>
+<li>Nama lengkap⤿ Mutiara Abadi</li>
+<li>Kelas⤿ XI.7</li>
+<li>Nomor siswa⤿ 24</li>
+<li>Hobi⤿ Membuat puisi dan menari
+<li>Favorite food⤿ Apa aja yang penting enak
+</ul></font>
+
+<hr size="20px">
+<p><marquee behavior="alternate"><font color="#83213F" size="5">⋆˚｡⋆୨✧୧˚ 𝑩𝒚𝒆 𝒃𝒚𝒆 ˚୨✧୧⋆｡˚⋆</p></marquee>
+<p><font face="Century Gothic" color="#83213F">Jangan lupa follow @muti.nganga</font></p>
+
+</body>
+</html>
